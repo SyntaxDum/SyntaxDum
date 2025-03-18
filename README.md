@@ -2,18 +2,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=4000&pause=500&color=F7C702&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Chinmay+Kulkarni;Flutter+Developer+|+Tech+Enthusiast;Lover+of+Mobile+App+Development;Open+Source+Contributor+%F0%9F%92%AA">
 </h1>
 
----
 
-## 🌟 **Flutter-Themed Banner**
 <p align="center">
-  <img src="https://raw.githubusercontent.com/flutter/devtools/master/docs/assets/devtools-banner.png" alt="Flutter GitHub Profile Banner" width="100%">
-</p>
-
----
-
-## **👀 Profile Visitors**
-<p align="center">
-  <img src="https://profile-counter.glitch.me/ChinmayKulkarni-0/count.svg" alt="Profile Visitor Counter">
+  <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" alt="GitHub Profile Banner" width="100%">
 </p>
 
 ---
@@ -75,4 +66,25 @@
 
 ## **📈 GitHub Activity Graph**
 <p align="center">
-  <img src="https://github-readme-activity-gra
+  <img src="https://activity-graph.herokuapp.com/graph?username=ChinmayKulkarni-0&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph">
+</p>
+
+---
+
+## **👀 Profile Visitors**
+<p align="center">
+  <img src="https://profile-counter.glitch.me/ChinmayKulkarni-0/count.svg" alt="Profile Visitor Counter">
+</p>
+
+## **📫 Connect with Me**
+<p align="center">
+  <a href="https://linkedin.com/in/chinmay07">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/ChinmayKulkarni-0">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:chinmaykulkarni0701@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
