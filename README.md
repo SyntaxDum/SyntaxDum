@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=4000&pause=500&color=F7C702&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Chinmay+Kulkarni;Flutter+Developer+|+Tech+Enthusiast;Lover+of+Mobile+App+Development;Open+Source+Contributor+%F0%9F%92%AA">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=4000&pause=500&color=F7C702&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Chinmay+Kulkarni;Flutter+Developer;Lover+of+Mobile+App+Development;Open+Source+Contributor+%F0%9F%92%AA">
 </h1>
 
 
@@ -64,10 +64,11 @@
 
 ---
 
-## **📈 GitHub Activity Graph**
+## 📈 GitHub Activity Graph
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=ChinmayKulkarni-0&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ChinmayKulkarni-0&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph">
 </p>
+
 
 ---
 
