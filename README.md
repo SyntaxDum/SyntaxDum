@@ -1,33 +1,48 @@
-<h1 align="center">Hi 👋, I'm Chinmay Kulkarni</h1>
-<h3 align="center">A passionate Flutter Developer from India</h3>
-
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ChinmayKulkarni-0&label=Profile%20views&color=0e75b6&style=flat" alt="ChinmayKulkarni-0" /> </p>
-
-- 🔭 I’m currently working at **Critical Start**
-- 🌱 I’m currently learning **Advanced Flutter & Blockchain**
-- 👯 I’m looking to collaborate on **Open Source Flutter Projects**
-- 📫 How to reach me: **chinmaykulkarni0701@gmail.com**
-- 💻 [My CV](https://github.com/ChinmayKulkarni-0/your-repo-name/blob/main/Chinmay_Kulkarni.pdf)
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=4000&pause=500&color=F7C702&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Chinmay+Kulkarni;Flutter+Developer+|+Tech+Enthusiast;Lover+of+Mobile+App+Development;Open+Source+Contributor+%F0%9F%92%AA">
+</h1>
 
 ---
 
-## 🚀 Skills
-**Languages:**  
+## 🌟 **Flutter-Themed Banner**
+<p align="center">
+  <img src="https://raw.githubusercontent.com/flutter/devtools/master/docs/assets/devtools-banner.png" alt="Flutter GitHub Profile Banner" width="100%">
+</p>
+
+---
+
+## **👀 Profile Visitors**
+<p align="center">
+  <img src="https://profile-counter.glitch.me/ChinmayKulkarni-0/count.svg" alt="Profile Visitor Counter">
+</p>
+
+---
+
+## **🚀 About Me**
+- 🔭 **Currently Working at:** *Critical Start (Software Engineer)*
+- 🌱 **Learning:** *Advanced Flutter & Blockchain*
+- 👯 **Looking to collaborate on:** *Flutter & Mobile App Projects*
+- 📫 **Reach me at:** *[chinmaykulkarni0701@gmail.com](mailto:chinmaykulkarni0701@gmail.com)*
+- 🌎 **Portfolio:** [My GitHub Pages Site](https://ChinmayKulkarni-0.github.io)
+- 📜 **[Download My CV](https://github.com/ChinmayKulkarni-0/your-repo-name/blob/main/Chinmay_Kulkarni.pdf)**
+
+---
+
+## **💻 Tech Stack**
+### **Languages**  
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Frameworks & Libraries:**  
+### **Frameworks & Libraries**  
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-**Databases & Cloud:**  
+### **Databases & Cloud**  
 ![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -35,51 +50,29 @@
 
 ---
 
-## 📚 Education
-🎓 **B.E. in Electronics & Telecommunication**  
-📍 *G.H Raisoni College of Engineering, Nagpur*  
-📆 2017 - 2021 | CGPA: **7.93/10**
-
----
-
-## 🏆 Projects
-### 🖥 Face Recognition with Python & OpenCV
+## **🎯 Projects**
+### 🖥 **Face Recognition with Python & OpenCV**
 - Built a **face recognition system** using OpenCV.
-- Implemented **facial feature detection** and compared faces mathematically.
-- Tech Stack: **Python, Django, REST API**
+- Implemented **facial feature detection** and mathematical matching.
+- **Tech Stack:** *Python, Django, REST API*
 
-### 🚗 Hand Gesture Car Control
+### 🚗 **Hand Gesture Car Control**
 - Controlled a robotic vehicle using **hand gestures & voice commands**.
-- Tech Stack: **Python, Django, REST API**
+- **Tech Stack:** *Python, Django, REST API*
 
 ---
 
-## 💼 Work Experience
-### 🔹 Software Engineer at **Critical Start**
-📅 *March 2023 – Present* | 📍 Pune, India  
-- Developed **Flutter** mobile applications with Vue.js UI.
-- Integrated **APIs** using Bloc Pattern for state management.
-- Collaborated with teams for **design, testing, and debugging**.
-
-### 🔹 Flutter Developer at **RegenApps Clouds Pvt. Ltd.**
-📅 *May 2022 – Feb 2023* | 📍 Pune, India  
-- Built **GammerGrid**, live on PlayStore & AppStore.
-- Worked on **animations, API integration, and performance improvements**.
-- Created **7+ apps in 10 months**.
-
----
-
-## 📊 GitHub Stats
-<p align="center">
+## **🏆 GitHub Stats**
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ChinmayKulkarni-0&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChinmayKulkarni-0&theme=tokyonight" alt="GitHub Streak" />
+  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChinmayKulkarni-0&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+</div>
 
 ---
 
-## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chinmay07)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ChinmayKulkarni-0)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chinmaykulkarni0701@gmail.com)
-
+## **📈 GitHub Activity Graph**
+<p align="center">
+  <img src="https://github-readme-activity-gra
