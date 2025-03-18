@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chinmay Kulkarni</h1>
 <h3 align="center">A passionate Flutter Developer from India</h3>
 
-<img src="https://github.com/your-username/your-repo-name/blob/main/image.png" alt="banner" width="100%">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ChinmayKulkarni-0&label=Profile%20views&color=0e75b6&style=flat" alt="ChinmayKulkarni-0" /> </p>
 
